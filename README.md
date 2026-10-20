@@ -19,7 +19,7 @@ Building a complete BI solution required structured stages from raw data ingesti
 3. **DAX & KPI Development:** Built custom DAX measures for Executive, Financial, Operational, and Marketing KPIs aligned with business requirements.
 4. **UI/UX & Visualization:** Designed 4 interactive dashboard interfaces tailored for each key department.
 
-![Data Modeling Architecture](modeling arch.png)
+![Data Modeling Architecture](modelingarch.png)
 
 ---
 
@@ -28,22 +28,22 @@ Building a complete BI solution required structured stages from raw data ingesti
 ### 1. Main Executive Dashboard
 Provides executive management with a high-level overview of overall business health, gross sales, net revenue trends, and target tracking.
 
-![Main Executive Dashboard](main.jpg)
+![Main Executive Dashboard](main.png)
 
 ### 2. Financial Performance Dashboard
 Tracks net revenue, total refunds, product discounts, and sales targets across product categories.
 
-![Finance Dashboard](finance.jpg)
+![Finance Dashboard](finance.png)
 
 ### 3. Operations & Logistics Dashboard
 Monitors supply chain performance, shipment delivery rates, late shipment counts, and product return volumes across major cities.
 
-![Operations Dashboard](ops.jpg)
+![Operations Dashboard](ops.png)
 
 ### 4. Marketing Analytics Dashboard
 Analyzes promo campaign impacts, customer value segmentation, repeat buyer patterns, and customer acquisition distribution.
 
-![Marketing Dashboard](marketing.jpg)
+![Marketing Dashboard](marketing.png)
 
 ---
 
